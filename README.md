@@ -8,5 +8,5 @@ Already tested
 
 
 ### TBD
-Test CRUD functionality /n
+Test CRUD functionality \
 Test ggplot2 implementation
